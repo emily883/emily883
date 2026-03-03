@@ -8,8 +8,8 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="85">, I'm Emily Cruz</h1>
-<h3 align="center">Computer Science w/conc Software Engineering Student at SNHU </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="85"></h1>
+<h3 align="center">:)</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emily's Linkedin" height="30" width="40" /></a>
  <a href = "mailto: emily_cruz1@outlook.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <em>
-    This is ME, Emily Cruz. <br>
+     <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> by herself and wants a <b>platform</b> to 
     <b>grow</b> and 
@@ -29,7 +29,7 @@
   <br>
   <b><i>There are no limits to learn!!!!</i></b>
   <br><br>
-  <b>Here you can see My professional portfolio <a href="" >Working on it :)</a> </b>
+  <!-- <b>Here you can see My professional portfolio <a href="" >Working on it :)</a> </b> -->
 </p>
 <br>
 
@@ -58,10 +58,10 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/></p>
+ <!-- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emily883&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="Emily-Cruz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emily883&show_icons=true&locale=en&theme=radical" alt="Emily-Cruz" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emily883&show_icons=true&locale=en&theme=radical" alt="Emily-Cruz" width="410" /></p> -->
 
 <hr>
 
